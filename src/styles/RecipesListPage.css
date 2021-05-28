@@ -1,0 +1,45 @@
+.recipes {
+  margin-bottom: 20px;
+}
+
+.recipes ul {
+  text-decoration: none;
+  list-style: circle;
+  padding-left: 30px;
+  color: rgb(54, 6, 54);
+}
+
+h3 {
+  text-transform: uppercase;
+  font-weight: lighter;
+  font-size: 15px;
+  letter-spacing: 2px;
+  padding: 8px;
+  transition: 0.2s;
+  padding: 20px;
+  text-align: center;
+  color: rgb(82, 59, 59);
+  text-shadow: 1px 1px rgb(223, 193, 193);
+}
+
+a {
+  text-decoration: none;
+  font-weight: lighter;
+  font-size: 15px;
+  letter-spacing: 2px;
+  transition: 0.2s;
+  padding: 10px;
+  text-align: center;
+  color: rgb(82, 59, 59);
+  text-shadow: 1px 1px rgb(223, 193, 193);
+}
+
+
+a:hover {
+  color:rgb(36, 5, 5);
+  text-shadow: 1px 1px rgb(146, 121, 121);
+  
+}
+
+
+

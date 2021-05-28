@@ -1,0 +1,40 @@
+button {
+    margin-top:10px;
+    margin-left:50px;
+    border:groove;
+    border-radius: 4px;
+    background-color: gray;
+    color:white;
+
+
+    
+}
+
+label {
+    font-weight:lighter;
+    letter-spacing: 2px;
+
+}
+
+button:hover {
+    background-color:rgba(184, 174, 174, 0.952);
+}
+
+input {
+    display: flex;
+
+
+}
+
+div.login {
+    padding:10px;
+}
+label {
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 15px;
+    letter-spacing: 2px;
+    transition: 0.2s;
+    color: rgb(82, 59, 59);
+    text-shadow: 1px 1px rgb(223, 193, 193);
+}
